@@ -1,4 +1,4 @@
-package com.android.myscraper.domain.constants;
+package com.android.myscraper.domain.utils;
 
 public class Constant {
 
