@@ -1,4 +1,4 @@
-package com.android.myscraper.domain.dtos;
+package com.android.myscraper.domain.model.api;
 
 public class Wallet {
 

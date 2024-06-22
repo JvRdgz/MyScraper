@@ -1,4 +1,4 @@
-package com.android.myscraper.domain.repository;
+package com.android.myscraper.domain.repositories;
 
 public interface UserRepository {
     /**

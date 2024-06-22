@@ -1,4 +1,6 @@
-package com.android.myscraper.domain.dtos;
+package com.android.myscraper.domain.service;
+
+import com.android.myscraper.domain.model.api.Wallet;
 
 import java.util.ArrayList;
 
