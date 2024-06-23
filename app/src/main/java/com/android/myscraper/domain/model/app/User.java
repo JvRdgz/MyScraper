@@ -2,16 +2,16 @@ package com.android.myscraper.domain.model.app;
 
 public class User {
 
-    private String userId;
+    private Integer userId;
     private String userName;
     private String email;
     private String password;
 
-    public String getUserId() {
+    public Integer getUserId() {
         return userId;
     }
 
-    public void setUserId(String userId) {
+    public void setUserId(Integer userId) {
         this.userId = userId;
     }
 
